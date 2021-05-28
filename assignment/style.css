@@ -1,0 +1,19 @@
+h1 {
+  background-color: red
+}
+
+.info {
+  color: green;
+  background-color: yellow;
+  font-style: italic;
+  font-family: serif;
+}
+
+h3 {
+  color: blue;
+  background-color: gray;
+}
+
+img {
+  width: 700px;
+}
